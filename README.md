@@ -29,7 +29,7 @@ Done ✅
 Start your Bot in Telegram & Enjoy
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Shashwat-Shukla/mdisk-ultra-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/hirendra4455/mdiskultrabot)
 
 ##### Required Variables
 
@@ -40,4 +40,4 @@ Start your Bot in Telegram & Enjoy
 
 ##### Credit
 
-- Me [Shashwat-Shukla](https://github.com/Shashwat-Shukla) For This Repo
+- Me [Hirendra84ya](https://github.com/hirendra4455) For This Repo
